@@ -1,6 +1,6 @@
 #!/bin/sh
 
-REPOSITORY="https://raw.github.com/jaymecd/aws-profile/master"
+REPOSITORY="https://github.com/Home24/aws-profile/master"
 DST_PATH=/usr/local/bin
 
 for F in aws-profile aws-wrapper; do
